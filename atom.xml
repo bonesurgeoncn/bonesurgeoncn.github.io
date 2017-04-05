@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-05T03:05:31.126Z</updated>
+  <updated>2017-04-05T03:16:42.018Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,13 +20,17 @@
     <link href="http://yoursite.com/2017/04/05/Acland-s-Video-Atlas-of-Human-Anatomy/"/>
     <id>http://yoursite.com/2017/04/05/Acland-s-Video-Atlas-of-Human-Anatomy/</id>
     <published>2017-04-05T02:24:07.000Z</published>
-    <updated>2017-04-05T03:05:31.126Z</updated>
+    <updated>2017-04-05T03:16:42.018Z</updated>
     
     <summary type="html">
     
       艾氏人体解剖学（英语：Acland&#39;s Video Atlas of Human Anatomy）是一部由路易斯维尔大学的罗伯特·阿克兰（Robert Acland）主持的解剖学视频课程
     
     </summary>
+    
+      <category term="Anatomy" scheme="http://yoursite.com/categories/Anatomy/"/>
+    
+      <category term="解剖" scheme="http://yoursite.com/categories/Anatomy/%E8%A7%A3%E5%89%96/"/>
     
     
       <category term="Anatomy" scheme="http://yoursite.com/tags/Anatomy/"/>
